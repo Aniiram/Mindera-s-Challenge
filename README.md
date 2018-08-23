@@ -23,6 +23,9 @@ Expected output:
 [ [3, 3], [4,3] ]
 ```
 
+#### Tests:
+There are several tests. Just comment or uncomment the lines for the pretended test
+
 #### Tecnhonogies used: 
 *  Python3
 
