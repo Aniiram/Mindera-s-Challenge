@@ -1,2 +1,4 @@
 # Mindera-s-Challenge
-Graduate Challnge by Mindera's
+Graduate Challenge by Mindera's
+
+##### Tecnhonogies used: Python3
