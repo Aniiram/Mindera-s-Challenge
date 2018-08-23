@@ -1,12 +1,12 @@
 # Adjacent cCells Challenge
 Graduate Challenge by Mindera's. 
 
-##### Rules:
+#### Rules:
 *  Cells are considered adjacent if they both contain a 1 (one) and are next to each other horizontally or vertically (not diagonally).
 *  Groups containing a single cell should not be considered
 *  The order of points or groups outputted by the program is not relevant
 
-##### Example
+#### Example
 For a grid input of:
 ```
 [[0,0,0,1,0,0,1,1],
@@ -23,6 +23,6 @@ Expected output:
 [ [3, 3], [4,3] ]
 ```
 
-##### Tecnhonogies used: 
+#### Tecnhonogies used: 
 *  Python3
 
